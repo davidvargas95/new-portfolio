@@ -26,6 +26,8 @@ body {
 
 .card {
   border: none;
+  border-bottom-left-radius: 0%;
+  border-bottom-right-radius: 10%;
 }
 
 .image {
