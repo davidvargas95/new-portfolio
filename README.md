@@ -8,17 +8,19 @@ Updated Portfolio
 
 [GitHub Repo](https://github.com/davidvargas95/new-portfolio)
 
+![Portfolio Screenshot](assets/images/finishedApp.png)
+
 --
 ## Description
 
-This application is a simple landing page to display what I have made thus far. It is meant to demonstrate the skills I have acquired and the languages and technologies that I have learned to use.
+This webpage is a simple landing page to display what I have made thus far. It is meant to demonstrate the skills I have acquired and the languages and technologies that I have learned to use.
 
-The application takes advantage of the Open Weather Map API to quicky query results for the city the user entered. 
+The page takes advantage of primarily HTML and CSS. Bootstrap layouts were used to build out many of the components on the page with custom CSS overlayed on some features.  
 
 --
 ## Usage
 
-Use this application to view the applications that I have completed. Multiple ways to contact me are listed in the footer. Use and enjoy what I have created! 
+Use this webpage to view the applications that I have completed. Multiple ways to contact me are listed in the footer. Use and enjoy what I have created! 
 
 --
 ## License
