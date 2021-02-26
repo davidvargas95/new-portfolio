@@ -4,7 +4,7 @@ Updated Portfolio
 --
 ## Links
 
-[Deployed Application](https://davidvargas95.github.io/new-portfolio/#contact)
+[Deployed Application](https://davidvargas95.github.io/new-portfolio/)
 
 [GitHub Repo](https://github.com/davidvargas95/new-portfolio)
 
